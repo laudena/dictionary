@@ -1,0 +1,73 @@
+body{
+    direction: rtl;
+}
+.headerContainer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+.subHeaderContainer{
+    display: flex;
+    flex-direction: row;
+}
+.an-reeh{
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+    font-size: small;
+}
+.an-1{
+
+    direction: rtl;
+    font-weight: bold;
+    font-size: medium;
+    flex: 1 auto;
+
+    flex-direction: row;
+    display: flex;
+}
+
+.and-22{
+    flex: 1 auto;
+    font-weight: lighter;
+    direction: ltr;
+    font-size: medium;
+}
+.bd-3{
+    display: flex;
+    font-weight: lighter;
+    font-size: small;
+    display: flex;
+}
+.bd-2 {
+    display: flex;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: small;
+}
+.tw_80{
+    font-weight: lighter;
+    /*font-size: x-small;*/
+    /*margin: 4px;*/
+}
+.tw_85{
+    display: flex;
+    font-weight: lighter;
+    /*font-size: x-small;*/
+    /*margin: 4px;*/
+}
+.tf_narkisim_b{
+    font-weight: bold;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+.th_11_5pt {
+    font-weight: lighter;
+    margin-right: 0.2em;
+
+}
+.tf_narkisim_b2{
+    font-weight: bold;
+}
+
+sub { flex: 0; vertical-align: baseline; position: relative; font-size: 70%; bottom: -0.5em;} /* 70% size of its parent element font-size which is good. */
